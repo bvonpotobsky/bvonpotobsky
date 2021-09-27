@@ -10,7 +10,8 @@
 
 <h3>Connect with me</h3>
 
- <div align="center">
+<div align="center">
+   
 [1]: https://www.linkedin.com/in/bvonpotobsky
 [2]: https://hashnode.com/@bvonpotobsky
 [3]: https://twitter.com/bvonpotobsky
@@ -22,4 +23,5 @@
 [![hashnode](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][3]
 
 ---
-  </div>
+   
+</div>
