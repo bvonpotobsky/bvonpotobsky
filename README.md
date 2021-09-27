@@ -8,7 +8,7 @@
   
 
 
-<h3>Connect with me</h3>
+<h3 align="center">Let's chat</h3>
 
 <div align="center">
    
