@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Benjamin von Potobsky</h1>
+<h1 align="center">Hi 👋,  I'm Benjamín von Potobsky</h1>
 <h3 align="center">A passionate Web Developer from Argentina</h3>
 
 <h4 align="center">Languages & tools that I use play with:</h4>
