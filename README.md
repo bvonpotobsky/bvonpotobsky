@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Benjamín von Potobsky</h1>
-<h3 align="center">A FrontEnd Developer from Argentina</h3>
+<h3 align="center">A FullStack Developer from Argentina</h3>
 
 <h4 align="center">Languages & tools that I use work with:</h4>
 
