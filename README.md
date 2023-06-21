@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋,  I'm Benjamín von Potobsky</h1>
-<h3 align="center">Software Developer</h3>
+<h4 align="center">An adventurer at heart, a software developer by trade. Exploring the world and embracing freedom.</h4>
+<h5 align="center">Stay wild, stay free.</h5>
+
+
 
 <div align="center">
    
