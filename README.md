@@ -9,6 +9,8 @@
 <div align="center">
    [bvonpotobsky.com](https://bvonpotobsky.com)
 </div>
+
+<div align="center">
    
 [1]: https://www.linkedin.com/in/bvonpotobsky
 [2]: https://twitter.com/bvonpotobsky
