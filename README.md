@@ -8,7 +8,7 @@
 
 <div align="center">
    
-   see you at:[bvonpotobsky.com](https://bvonpotobsky.com/)
+   💻 [bvonpotobsky.com](https://bvonpotobsky.com/)
    
 </div>
 
