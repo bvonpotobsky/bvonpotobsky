@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋,  I'm Benjamín von Potobsky</h1>
-<h4 align="center">An adventurer at heart, a software developer by trade. Exploring the world and embracing freedom.</h4>
-<h5 align="center">¡Stay wild, stay free!</h5>
+<h1 align="center">Benjamín von Potobsky</h1>
 
+<p align="center">I build software that helps institutions make smarter investment decisions.</p>
 
-<div align="center">🚀🚀🚀</div>
-
-
-<div align="center">
-   
-   💻 [bvonpotobsky.com](https://bvonpotobsky.com/)
-   
-</div>
-
-<div align="center">
-   
-[1]: https://www.linkedin.com/in/bvonpotobsky
-[2]: https://twitter.com/bvonpotobsky
+<p align="center">
+  <a href="https://bvonpotobsky.com">bvonpotobsky.com</a>
+  ·
+  <a href="https://www.linkedin.com/in/bvonpotobsky">LinkedIn</a>
+  ·
+  <a href="https://x.com/bvonpotobsky">X</a>
+  ·
+  <a href="mailto:hello@bvonpotobsky.com">Email</a>
+</p>
 
 ---
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][2]
+### What I do
+
+Software Engineer at **Flame Factory** for the past 4 years, building investment
+analytics used by asset managers, wealth firms and retirement-plan advisors.
+
+Trusted by BofA, BlackRock and BBVA.
+
+- **Ship features end to end** — from data model to UI to deploy
+- **Translate dense quantitative & financial logic** into clean, usable software
+- **Build analytics & reporting** that stay fast and reliable at scale
+
+### Stack
+
+`TypeScript` · `React` · `Node.js` · `SQL` · `AWS`
 
 ---
-   
-</div>
+
+<p align="center"><i>Stay wild, stay free!</i></p>
